@@ -10,5 +10,5 @@ Purpose:\
 Understand the Unity XR Interactive Toolkit\
 Develop a way to give the user wearable items in VR\
 Create an accurate mirror and have the users actions reflected in them\
-Have the environment change when a mask was put on\
+Have the environment change when a mask was put on
 
